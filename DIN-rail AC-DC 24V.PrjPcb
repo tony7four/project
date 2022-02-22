@@ -36,6 +36,7 @@ IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
+VcsMigrated=7A946BCF-1E76-4B11-B259-2972A9066FB1|35BD9F1E-AF38-4E95-9F03-4EA2107E99D3
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
